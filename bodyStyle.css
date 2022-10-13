@@ -1,0 +1,28 @@
+.mainHeader {
+    text-align: center;
+    font-family: sans-serif;
+    background-color: #68246DB3;
+    padding:3%;
+    margin: 0%;
+    border: 7px;
+    border-color: white;
+    border-style: double;
+}
+
+
+body {
+    font-family: sans-serif;
+}   
+
+
+.paragraph {
+    font-family: sans-serif;
+    background-color: #b7410eB3;
+    color: white;
+    padding: 10%;
+    margin: 5%;
+    width: 45%;
+    bordeR: 10px;
+    border-color: white;
+    border-style: double;
+}
